@@ -1,0 +1,12 @@
+@import "tailwindcss";
+@plugin "daisyui";
+@import "animate.css";
+
+body {
+  background: linear-gradient(180deg, #f8fafc 0%, #eef2ff 100%);
+  color: #0f172a;
+}
+
+* {
+  -webkit-tap-highlight-color: transparent;
+}
