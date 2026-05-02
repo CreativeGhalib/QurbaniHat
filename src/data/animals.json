@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "name": "Deshi Shahi Cow",
+    "type": "Cow",
+    "breed": "Local Deshi",
+    "price": 120000,
+    "weight": 280,
+    "age": 3,
+    "location": "Bogura",
+    "description": "Healthy deshi cow suitable for Qurbani. Naturally fed and regularly monitored.",
+    "image": "/assets/deshi-shahi-cow.png",
+    "category": "Large Animal"
+  },
+  {
+    "id": 2,
+    "name": "Sada Moni Cow",
+    "type": "Cow",
+    "breed": "Friesian Cross",
+    "price": 145000,
+    "weight": 320,
+    "age": 4,
+    "location": "Sirajganj",
+    "description": "Strong and well-shaped cow with balanced weight for medium to large family Qurbani.",
+    "image": "/assets/sada-moni-cow.png",
+    "category": "Large Animal"
+  },
+  {
+    "id": 3,
+    "name": "Black Pearl Cow",
+    "type": "Cow",
+    "breed": "Shahiwal Cross",
+    "price": 165000,
+    "weight": 350,
+    "age": 4,
+    "location": "Pabna",
+    "description": "Premium quality black cow, calm nature, and raised with proper farm hygiene.",
+    "image": "/assets/black-pearl-cow.png",
+    "category": "Premium Large Animal"
+  },
+  {
+    "id": 4,
+    "name": "Noorani Goat",
+    "type": "Goat",
+    "breed": "Black Bengal",
+    "price": 28000,
+    "weight": 34,
+    "age": 2,
+    "location": "Rajshahi",
+    "description": "Popular Black Bengal goat with compact body and healthy growth.",
+    "image": "/assets/noorani-goat.jpg",
+    "category": "Small Animal"
+  },
+  {
+    "id": 5,
+    "name": "Sultan Goat",
+    "type": "Goat",
+    "breed": "Jamunapari",
+    "price": 36000,
+    "weight": 40,
+    "age": 2,
+    "location": "Kushtia",
+    "description": "Tall and attractive goat with good muscle build, suitable for family Qurbani.",
+    "image": "/assets/sultan-goat.png",
+    "category": "Medium Animal"
+  },
+  {
+    "id": 6,
+    "name": "Green Valley Goat",
+    "type": "Goat",
+    "breed": "Beetal Mix",
+    "price": 42000,
+    "weight": 46,
+    "age": 3,
+    "location": "Mymensingh",
+    "description": "Farm-raised goat with controlled diet and vaccination records.",
+    "image": "/assets/green-valley-goat.png",
+    "category": "Premium Small Animal"
+  }
+]
